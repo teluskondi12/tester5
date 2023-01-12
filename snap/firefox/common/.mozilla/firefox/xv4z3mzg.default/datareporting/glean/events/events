@@ -1,0 +1,4 @@
+{"timestamp":2187584,"category":"nimbus_events","name":"validation_failed","extra":{"feature":"dapTelemetry","experiment":"dap-telemetry-first-ingress-test","reason":"invalid-feature"}}
+{"timestamp":2199111,"category":"perf","name":"page_load","extra":{"js_exec_time":"493","load_time":"5681","response_time":"2659","load_type":"NORMAL","fcp_time":"5586"}}
+{"timestamp":2205010,"category":"perf","name":"page_load","extra":{"response_time":"522","load_type":"LINK","load_time":"1678","fcp_time":"891","js_exec_time":"336"}}
+{"timestamp":2453680,"category":"nimbus_events","name":"validation_failed","extra":{"feature":"dapTelemetry","reason":"invalid-feature","experiment":"dap-telemetry-first-ingress-test"}}
